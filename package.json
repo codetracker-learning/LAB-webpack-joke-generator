@@ -1,5 +1,5 @@
 {
-  "name": "joke-generator",
+  "name": "webpack-joke-generator-template",
   "version": "1.0.0",
   "description": "",
   "main": "src/scripts/main.js",
