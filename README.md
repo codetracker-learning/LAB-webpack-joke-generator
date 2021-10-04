@@ -11,7 +11,7 @@ Make a quick plan and then execute it.
 1. When the user presses the "Get a Joke" button, an API call is made to the joke API and the joke setup appears on the DOM.
 1. When a user presses the "Get a Joke" button, the button text changes to "Get Punchline"
 1. When a user presses the "Get Punchline" button, both the joke setup and delivery are on the DOM along with a button that reads "Get Another Joke"
-1. When the user presses the "Get Another Joke" button, the app starts over from step 2.
+1. When the user presses the "Get Another Joke" button, the app starts over from step 3.
 
 ## Resources:
 - [API Documentation](https://sv443.net/jokeapi/v2/)
