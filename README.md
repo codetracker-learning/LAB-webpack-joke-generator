@@ -1,10 +1,9 @@
 # Joke Generator
-
-For this refresher, we are going to build a Joke Generator
-
-DO NOT worry about style until you get the initial functionality together. This is a lightning exercise, so it is meant to be completed in 30 minutes or less.
-
-Make a quick plan and then execute it.
+## Starting the Project
+1. Open the `package.json` file and change the `name` property to the name of your application, and `author` to  your name.
+1. Rename the `.sample.env` file to `.env` file. The final file name should be `.env`
+1. From your command line, be in the root directory and run `npm install` OR `npm i` for short.
+1. To start your application, run `npm start`
 
 ## Acceptance Criteria:
 1. When a user first loads the app, a button appears on the DOM that reads "Get a Joke"
