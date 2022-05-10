@@ -2,7 +2,7 @@
 
 import 'bootstrap'; // import bootstrap elements and js
 import '../styles/main.scss';
-import jokeData from './helpers/jokeData';
+import jokeData from '../api/jokeData';
 
 const init = () => {
   document.querySelector('#app').innerHTML = `
