@@ -1,7 +1,8 @@
 # Joke Generator
 ## Starting the Project
-1. Open the `package.json` file and change the `name` property to the name of your application, and `author` to  your name.
+1. Open the `package.json` file and change the `name` property to the name of your application.
 1. Rename the `.sample.env` file to `.env` file. The final file name should be `.env`
+1. Navigate to the `index.html ` file and change the title to "Joke Generator"
 1. From your command line, be in the root directory and run `npm install` OR `npm i` for short.
 1. To start your application, run `npm start`
 
