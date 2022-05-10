@@ -5,6 +5,7 @@ import jokeData from '../api/jokeData';
 const init = () => {
   // Default state
   document.querySelector('#app').innerHTML = `
+  <div id="jokeContent"></div>
   <div id="mainContainer">
     <button class="btn btn-success" id="get-joke-btn">Get A Joke</button>
   </div>
