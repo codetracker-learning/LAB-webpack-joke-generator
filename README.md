@@ -15,10 +15,6 @@
 
 ## Resources:
 - [API Documentation](https://sv443.net/jokeapi/v2/)
-- Get the Postman Collection
-  - In Postman, select "Import" > "Link"
-  - Copy/Paste this link into the input: `https://www.getpostman.com/collections/548ed97710101a76aa64`
-  - Click "Import"
 
 ## Stretch
 DO NOT complete any stretch goals until the functionality of the application is completed.
